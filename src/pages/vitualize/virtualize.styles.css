@@ -1,0 +1,14 @@
+.virtualContainer {
+    min-height: 100%;
+    width: 100%;
+}
+
+.virtualizedItem {
+    margin-top: var(--gap);
+    margin-bottom: var(--gap);
+    position: absolute;
+    top: var(--top);
+    left: 50%;
+    transform: translateX(-50%);
+}
+

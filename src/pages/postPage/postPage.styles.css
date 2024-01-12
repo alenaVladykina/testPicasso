@@ -1,0 +1,11 @@
+.buttonWrapper {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.postPage {
+    padding: 100px;
+}
